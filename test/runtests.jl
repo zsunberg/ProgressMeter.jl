@@ -1,5 +1,5 @@
-# include("test.jl")
-# include("test_showvalues.jl")
+include("test.jl")
+include("test_showvalues.jl")
 include("test_pmap.jl")
 
 println("")
